@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class MainClass {
+ public class MainClass {
     public static void main(String[] args) throws InterruptedException {
         CharacterThread characterThread = new CharacterThread();//initializing characterThread
         characterThread.start();
