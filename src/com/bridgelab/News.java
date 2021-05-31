@@ -7,5 +7,5 @@ public class News {
 
     enum NewsType {
         DELHI, MUMBAI, ASSAM
-    }
+     }
 }
