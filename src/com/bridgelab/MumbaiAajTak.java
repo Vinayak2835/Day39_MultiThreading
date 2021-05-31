@@ -11,4 +11,4 @@ public class MumbaiAajTak implements Observers {
     public NewsType getNewsType() {
         return NewsType.MUMBAI;
     }
-}
+ }
