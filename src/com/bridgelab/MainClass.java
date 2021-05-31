@@ -6,7 +6,7 @@ public class MainClass {
 
     public static void main(String[] args) {
 
-         News assamNews = new News();
+        News assamNews = new News();
         assamNews.news = "Hii Heavy Raining in Assam";
         assamNews.newsType = NewsType.ASSAM;
 
